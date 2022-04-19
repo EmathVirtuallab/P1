@@ -6,6 +6,8 @@ https://engineering.purdue.edu/~ce573/Documents/Intro%20to%20Structural%20Motion
 
 
 Research Reference Links
+
+
 .Richard Hamming https://www.youtube.com/watch?v=AD4b-52jtos&list=PL2FF649D0C4407B30
 
 
