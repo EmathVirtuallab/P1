@@ -1,3 +1,12 @@
+Memory devices and applications for in-memory computing
+https://www.nature.com/articles/s41565-020-0655-z 
+
+
+Equivalent-accuracy accelerated neural-network training using analogue memory
+https://www.nature.com/articles/s41586-018-0180-5
+
+
+
 
 https://docs.google.com/presentation/d/1cSogzUJUO_G__Q_fGUgM65YMEokM5D61aKPJNuoGHVE/edit?usp=sharing
 
