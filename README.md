@@ -1,4 +1,3 @@
-https://docs.google.com/presentation/d/1HT87aV7WecWLDPkKTnodhhmNQlBhc-HKppwQD_wp6SM/edit?usp=sharing
 
 https://docs.google.com/presentation/d/1cSogzUJUO_G__Q_fGUgM65YMEokM5D61aKPJNuoGHVE/edit?usp=sharing
 
